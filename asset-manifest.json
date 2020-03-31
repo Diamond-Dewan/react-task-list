@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/react-task-list/static/js/main.3734a6c5.chunk.js",
+    "main.js.map": "/react-task-list/static/js/main.3734a6c5.chunk.js.map",
+    "runtime-main.js": "/react-task-list/static/js/runtime-main.cc0f4d27.js",
+    "runtime-main.js.map": "/react-task-list/static/js/runtime-main.cc0f4d27.js.map",
+    "static/css/2.ff299b34.chunk.css": "/react-task-list/static/css/2.ff299b34.chunk.css",
+    "static/js/2.01e5cd95.chunk.js": "/react-task-list/static/js/2.01e5cd95.chunk.js",
+    "static/js/2.01e5cd95.chunk.js.map": "/react-task-list/static/js/2.01e5cd95.chunk.js.map",
+    "index.html": "/react-task-list/index.html",
+    "precache-manifest.4387f15d6b983ada6a8571f921190fdc.js": "/react-task-list/precache-manifest.4387f15d6b983ada6a8571f921190fdc.js",
+    "service-worker.js": "/react-task-list/service-worker.js",
+    "static/css/2.ff299b34.chunk.css.map": "/react-task-list/static/css/2.ff299b34.chunk.css.map",
+    "static/js/2.01e5cd95.chunk.js.LICENSE.txt": "/react-task-list/static/js/2.01e5cd95.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-task-list/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc0f4d27.js",
+    "static/css/2.ff299b34.chunk.css",
+    "static/js/2.01e5cd95.chunk.js",
+    "static/js/main.3734a6c5.chunk.js"
+  ]
+}
