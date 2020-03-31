@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22acee03-fbb3-4c39-acaa-c58b05ecd14c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AddTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CompletedTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TabSwitch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TaskList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/TodoListContext.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -87,18 +71,41 @@
       <workItem from="1585652342748" duration="703000" />
       <workItem from="1585653076631" duration="82000" />
       <workItem from="1585653180784" duration="981000" />
-      <workItem from="1585664650778" duration="7396000" />
+      <workItem from="1585664650778" duration="8680000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1585689022778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585689022778</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="563" y="0" key="CommitChangelistDialog2" timestamp="1585688976038">
+    <state x="563" y="0" key="CommitChangelistDialog2" timestamp="1585689022392">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state x="563" y="0" key="CommitChangelistDialog2/0.0.1366.732@0.0.1366.732" timestamp="1585688976038" />
+    <state x="563" y="0" key="CommitChangelistDialog2/0.0.1366.732@0.0.1366.732" timestamp="1585689022392" />
     <state x="235" y="105" key="FileChooserDialogImpl" timestamp="1585654986291">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
